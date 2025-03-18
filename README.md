@@ -9,5 +9,5 @@ All relevant libraries are listed under the requirements.txt file. If you intend
 pip install requirements.txt
 ```
 
-[!IMPORTANT]
-The repository contains no Dockerfile or Procfile. These may be necessary to run it on a (proprietary) server.
+> [!IMPORTANT]
+> The repository contains no Dockerfile or Procfile. These may be necessary to run it on a (proprietary) server.
